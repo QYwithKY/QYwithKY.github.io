@@ -76,3 +76,6 @@ From _2020/09/05_ to _Forever_
 - 喜茶
 - 茶颜悦色
 - ...
+
+## Photos
+![Ice%20Cream](https://github.com/QYwithKY/QYwithKY.github.io/blob/master/Ice%20Cream.jpg)
