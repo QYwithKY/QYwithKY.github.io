@@ -78,4 +78,4 @@ From _2020/09/05_ to _Forever_
 - ...
 
 ## Photos
-![Ice%20Cream](.//Ice Cream.jpg)
+![IceCream](https://github.com/QYwithKY/QYwithKY.github.io/blob/master/Ice%20Cream.jpg)
